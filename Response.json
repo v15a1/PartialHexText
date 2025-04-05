@@ -1,0 +1,30 @@
+{
+        "config": {
+            "prefix": "#(",
+            "suffix": ")",
+            "textAlignment": "leading",
+            "viewAlignment": "trailing"
+
+        },
+        "text": "#(PartialColorText) is a #(SwiftUI) library that allows developers to #(dynamically colour) texts/words when adhered to a given #(format). This can be especially helpful for applications where text areas are #(dynamically coloured).",
+        "colors": [
+            "#1450A3",
+            "#279EFF",
+            "#FF6969",
+            "#FBD85D",
+            "#98EECC",
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
